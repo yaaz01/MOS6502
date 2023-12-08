@@ -1,0 +1,53 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wno-unused-function",
+      "-Wno-unused-variable",
+      "-g",
+      "-c",
+      "-I./include",
+      "-o",
+      "src/6502.o",
+      "src/6502.c"
+    ],
+    "directory": "/home/felipe/Studies/estudos/C/tests/MOS6502",
+    "file": "/home/felipe/Studies/estudos/C/tests/MOS6502/src/6502.c",
+    "output": "/home/felipe/Studies/estudos/C/tests/MOS6502/src/6502.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wno-unused-function",
+      "-Wno-unused-variable",
+      "-g",
+      "-c",
+      "-I./include",
+      "-o",
+      "src/debug.o",
+      "src/debug.c"
+    ],
+    "directory": "/home/felipe/Studies/estudos/C/tests/MOS6502",
+    "file": "/home/felipe/Studies/estudos/C/tests/MOS6502/src/debug.c",
+    "output": "/home/felipe/Studies/estudos/C/tests/MOS6502/src/debug.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wno-unused-function",
+      "-Wno-unused-variable",
+      "-g",
+      "-c",
+      "-I./include",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/felipe/Studies/estudos/C/tests/MOS6502",
+    "file": "/home/felipe/Studies/estudos/C/tests/MOS6502/src/main.c",
+    "output": "/home/felipe/Studies/estudos/C/tests/MOS6502/src/main.o"
+  }
+]
